@@ -19,11 +19,24 @@ F2=xy’z+x’y’z+w’xy+wx’y+wxy
 ## Logic Diagram
 ## Procedure
 ## Program:
-/*
+
 Program to implement the given logic function and to verify its operations in quartus using Verilog programming.
-Developed by: 
-RegisterNumber:  
-*/
+Developed by: alagu nachiyar k
+RegisterNumber:212222240006
+```
+module exp2(A,B,C,D,F1);
+input A,B,C,D;
+output F1;
+wire x1,x2,x3,x4,x5;
+assign x1=(~A & ~B & ~C & ~D);
+assign x2=(A & ~C & ~D);
+assign x3=(~B & C& ~D);
+assign x4=(~A & B & C & D);
+assign x5=(B & ~C & D);
+assign F1=x1|x2|x3|x4|x5;
+endmodule
+```
+
 ## RTL realization
 
 ## Output:
