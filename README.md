@@ -66,6 +66,8 @@ endmodule
 
 
 
+## TRUTH TABLE:
+![image](https://github.com/Nachiyarr/Experiment--02-Implementation-of-combinational-logic-/assets/113497340/c445cc5b-b639-4591-aea9-edd7d80a8580)
 
 
 ## RTL REALIZATION:
