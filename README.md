@@ -67,11 +67,11 @@ endmodule
 
 
 ## TRUTH TABLE:
-![image](https://github.com/Nachiyarr/Experiment--02-Implementation-of-combinational-logic-/assets/113497340/c445cc5b-b639-4591-aea9-edd7d80a8580)
+![image](https://github.com/Nachiyarr/Experiment--02-Implementation-of-combinational-logic-/assets/113497340/419acdf6-e2cd-46ce-b185-4ca5e19dae23)
 
 
 ## RTL REALIZATION:
-![exp 2 diagram](https://github.com/Nachiyarr/Experiment--02-Implementation-of-combinational-logic-/assets/113497340/14771a7d-ad89-4eab-b401-50ee285a7e63)
+![image](https://github.com/Nachiyarr/Experiment--02-Implementation-of-combinational-logic-/assets/113497340/6f53be14-8b99-4774-b310-04480e805d70)
 
 ## Output:
 ![image](https://github.com/Nachiyarr/Experiment--02-Implementation-of-combinational-logic-/assets/113497340/d06dcdf4-7baf-451a-a5ef-2b170f7ef83a)
