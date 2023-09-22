@@ -74,7 +74,8 @@ endmodule
 ![exp 2 diagram](https://github.com/Nachiyarr/Experiment--02-Implementation-of-combinational-logic-/assets/113497340/14771a7d-ad89-4eab-b401-50ee285a7e63)
 
 ## Output:
-![image](https://github.com/Nachiyarr/Experiment--02-Implementation-of-combinational-logic-/assets/113497340/28dbc573-d0bd-424a-be52-1b59ff7d5dc0)
+![image](https://github.com/Nachiyarr/Experiment--02-Implementation-of-combinational-logic-/assets/113497340/d06dcdf4-7baf-451a-a5ef-2b170f7ef83a)
+
 
 
 
