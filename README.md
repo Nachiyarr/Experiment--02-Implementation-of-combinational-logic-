@@ -49,13 +49,12 @@ assign F1=x1|x2|x3|x4|x5;
 endmodule
 ```
 ## TRUTH TABLE:
-![image](https://github.com/naren2704/Experiment--02-Implementation-of-combinational-logic-/assets/118706984/60a91a0c-ae9c-4aa3-8f5f-f7d1d74594f1)
+![image](https://github.com/naren2704/Experiment--02-Implementation-of-combinational-logic-/assets/118706984/984b7670-5713-458d-ae03-0ea74a39d08a)
+## RTL Realization:
+![image](https://github.com/naren2704/Experiment--02-Implementation-of-combinational-logic-/assets/118706984/af03c700-4288-4ca9-84c8-303580737654)
+## Waveform:
+![image](https://github.com/naren2704/Experiment--02-Implementation-of-combinational-logic-/assets/118706984/138f8a13-a4e2-42a7-9486-722e81a5c3a1)
 
-## RTL realization:
-![image](https://github.com/naren2704/Experiment--02-Implementation-of-combinational-logic-/assets/118706984/d0723001-2361-4fd8-9855-20b1182b4a29)
-
-## Output:
-![image](https://github.com/naren2704/Experiment--02-Implementation-of-combinational-logic-/assets/118706984/f52b042c-2684-49d4-a5a4-e145ab4c36cc)
 
 ## Result:
 Thus the given logic functions are implemented using  and their operations are verified using Verilog programming.
