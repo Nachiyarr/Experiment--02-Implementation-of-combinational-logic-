@@ -4,7 +4,7 @@ Implementation of combinational logic gates
 ## AIM:
 To implement the given logic function verify its operation in Quartus using Verilog programming.
  F1= A’B’C’D’+AC’D’+B’CD’+A’BCD+BC’D
-F2=xy’z+x’y’z+w’xy+wx’y+wxy
+
  
  
  
@@ -33,7 +33,7 @@ F2=xy’z+x’y’z+w’xy+wx’y+wxy
 ## Program:
 
 Program to implement the given logic function and to verify its operations in quartus using Verilog programming.
-Developed by:Narendran b 
+Developed by:Narendran B 
 RegisterNumber: 212222240069
 ```
 module exp2(A,B,C,D,F1);
